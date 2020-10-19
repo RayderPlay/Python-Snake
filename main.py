@@ -128,5 +128,3 @@ while done:
     pygame.display.update()
 
 pygame.quit()
-
-# @Created by NotTorulia
